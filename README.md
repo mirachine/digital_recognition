@@ -1,22 +1,22 @@
-# digital_recognition
-# 手写数字识别程序
+# 手写数字识别程序(digital_recognition)
 
-# Run
-在linux下使用命令 `python main.py` 运行
+## 怎么运行?(Run)
+在linux下使用命令:
+>`python main.py`
 
-# 需要安装一些必要的库
-## tkinter
->$sudo apt-get install python-tk
-## opencv
->$sudo pip install opencv-python
-## numpy
->$sudo pip install numpy
-## scipy
->$sudo pip install scipy
-## PIL
->$sudo pip install pillow
+## 需要安装一些必要的库
+>### tkinter
+>>$sudo apt-get install python-tk
+>### opencv
+>>$sudo pip install opencv-python
+>### numpy
+>>$sudo pip install numpy
+>### scipy
+>>$sudo pip install scipy
+>### PIL
+>>$sudo pip install pillow
 
-# 该程序参考的一些资料和教程
+## 该程序参考的一些资料和教程
 >https://www.bilibili.com/video/av42518802/?p=2
 
 >https://blog.csdn.net/a1_a1_a/article/details/79981788
