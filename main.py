@@ -1,13 +1,15 @@
+# gui库
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
+# opencv只用来画图了,没用到图像处理的功能
 import cv2
+# 矩阵运算用到的库
 import numpy as np
+# 科学计算用到的库,其中激活函数Sigmoid函数在里面
 import scipy.special
-import matplotlib.pyplot as plt
+# 读取图片和转换图片格式用到的库
 from PIL import Image, ImageTk
-import threading
-from time import ctime,sleep
 
 class neuralNetwork :
 
