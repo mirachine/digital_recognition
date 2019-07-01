@@ -1,3 +1,9 @@
+'''
+Python 3.6.7
+UTF-8
+GPL-3.0
+'''
+
 # gui库
 import tkinter as tk
 from tkinter import filedialog
